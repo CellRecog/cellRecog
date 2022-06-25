@@ -29,7 +29,7 @@ To be described later.
 ![image](https://github.com/CellRecog/cellRecog/blob/main/Images/res.jpg)
 
 ### 4.3 Results Download
-* Results of our SINet. [Download](https://pan.baidu.com/s/1oWrH1MpzWCYJcUhxPBSlhQ)(9zjx)
+* Results of our TVNet. [Download](https://pan.baidu.com/s/1oWrH1MpzWCYJcUhxPBSlhQ)(9zjx)
 
 * Performance of competing methods. [Download](https://pan.baidu.com/s/166Kag9XHUqFXXzbeuQtv-g)(pmt0)
 
