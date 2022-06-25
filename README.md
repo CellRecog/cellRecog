@@ -12,6 +12,9 @@ TVMI3K datasets: [Download](https://zenodo.org/record/6534086)
 ![image](https://github.com/CellRecog/cellRecog/blob/main/Images/tvnet.png)
 
 ## Result
+
+![image](https://github.com/CellRecog/cellRecog/blob/main/Images/res1.jpg)
+
 ![image](https://github.com/CellRecog/cellRecog/blob/main/Images/res.jpg)
 
 ## Citation
