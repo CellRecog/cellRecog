@@ -1,8 +1,8 @@
 #Trichomonas Vaginalis Segmentation in Microscope Images
 <br> Authors: Lin Li, Jingyi Liu, Shuo Wang, Xunkun Wang, and Tian-Zhu Xiang
 
-### Hi there 👋
-
+<### Hi there 👋
+>
 <!--
 **CellRecog/cellRecog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
