@@ -1,5 +1,5 @@
 # Trichomonas Vaginalis Segmentation in Microscope Images
-<br> Authors: Lin Li, Jingyi Liu, Shuo Wang, Xunkun Wang, and Tian-Zhu Xiang
+> Authors: Lin Li, Jingyi Liu, Shuo Wang, Xunkun Wang, and Tian-Zhu Xiang
 
 <!--
 ### Hi there 👋
