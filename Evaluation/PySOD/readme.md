@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/logo.png" alt="Logo" width="320" height="auto">
+  <!-- <img src="./images/logo.png" alt="Logo" width="320" height="auto"> -->
   <h2 align="center">PySODMetrics: A simple and efficient implementation of SOD metrics</h2>
 </p>
 
