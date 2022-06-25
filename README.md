@@ -19,7 +19,7 @@ Please cite our paper if you find the work useful:
 >@inproceedings{li2022TVS,
 <br>title={Trichomonas Vaginalis Segmentation in Microscope Images},
 <br>author={Li, Lin and Liu, Jingyi and Wang, Shuo and Wang, Xunkun and Xiang, Tian-Zhu},
-<br>booktitle={MICCAI},
+<br>booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI},
 <br>year={2022}
 <br>}
 
