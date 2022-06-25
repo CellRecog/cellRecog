@@ -3,7 +3,7 @@
 
 
 ## Introducton
-In our paper, we collect a novel large-scale, challenging microscope image dataset of TV called TVMI3K. 
+In our paper, we collect a novel large-scale, challenging microscope image dataset of Trichomonas Vaginalis called TVMI3K. 
 And, we propose a simple but effective baseline, TVNet.
 We hope our study will offer the community an opportunity to explore more in this field.
 
