@@ -40,9 +40,9 @@ Figure 3: Visual comparison of different methods. Our method provides more accur
 
 ### 4.3 Results Download
 
-* Results of our TVNet. [Baidu Pan](https://pan.baidu.com/s/1oWrH1MpzWCYJcUhxPBSlhQ) (9zjx)
+* Results of our TVNet. [Baidu Pan](https://pan.baidu.com/s/1oWrH1MpzWCYJcUhxPBSlhQ) (9zjx) [Google Drive](https://drive.google.com/file/d/1ize1Y702v655V2bBHMtiiMS48bl504BJ/view?usp=sharing)
 
-* Performance of competing methods. [Baidu Pan](https://pan.baidu.com/s/166Kag9XHUqFXXzbeuQtv-g) (pmt0)
+* Performance of competing methods. [Baidu Pan](https://pan.baidu.com/s/166Kag9XHUqFXXzbeuQtv-g) (pmt0) [Google Drive](https://drive.google.com/file/d/1qdBTRtTM10tKDMNwrSizrRF8wM2uyanf/view?usp=sharing)
 
 
 
