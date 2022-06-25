@@ -15,11 +15,11 @@ TVMI3K datasets: [Download](https://zenodo.org/record/6534086)
 ## Citation
 Please cite our paper if you find the work useful:
 >@inproceedings{li2022TVS,
->title={Trichomonas Vaginalis Segmentation in Microscope Images},
->author={Li, Lin and Liu, Jingyi and Wang, Shuo and Wang, Xunkun and Xiang, Tian-Zhu},
->booktitle={MICCAI},
->year={2022}
->}
+    >title={Trichomonas Vaginalis Segmentation in Microscope Images},
+    >author={Li, Lin and Liu, Jingyi and Wang, Shuo and Wang, Xunkun and Xiang, Tian-Zhu},
+    >booktitle={MICCAI},
+    >year={2022}
+    >}
 
 
 
