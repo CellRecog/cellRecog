@@ -1,4 +1,4 @@
-# Trichomonas Vaginalis Segmentation in Microscope Images
+# Trichomonas Vaginalis Segmentation in Microscope Images (MICCAI2022)
 > Authors: Lin Li, Jingyi Liu, Shuo Wang, Xunkun Wang, and Tian-Zhu Xiang
 
 <!--
