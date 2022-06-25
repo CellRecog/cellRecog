@@ -29,7 +29,7 @@ To be described later.
 ![image](https://github.com/CellRecog/cellRecog/blob/main/Images/res.jpg)
 
 ### 4.3 Results Download
->Results of our SINet [Download]()
+* Results of our SINet [Download]()
 
 Performance of competing methods
 ## Citation
