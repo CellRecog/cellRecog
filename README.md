@@ -50,7 +50,7 @@ Figure 3: Visual comparison of different methods. Our method provides more accur
 
 The models and source code will be released soon. 
 
-For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) Dice and IoU codes. They can also be found in ```Evaluation``` folder.
+For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) Dice and IoU [codes](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
 
 
 
