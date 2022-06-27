@@ -5,7 +5,8 @@
 
 ## 1. Introducton
 
-In this work, we collect the first large-scale Microscopic Image dataset of Trichomonas Vaginalis, called **TVMI3K**, which consists of 3,158 images covering Trichomonas of various appearances in diverse backgrounds, with high-quality annotations including object-level mask labels, object boundaries, and challenging attributes. Besides, we propose a simple yet effective baseline, named **TVNet**, to automatically segment Trichomonas from microscopic images. 
+- In this work, we collect the first large-scale Microscopic Image dataset of Trichomonas Vaginalis, called ***TVMI3K***, which consists of 3,158 images covering Trichomonas of various appearances in diverse backgrounds, with high-quality annotations including object-level mask labels, object boundaries, and challenging attributes. 
+- Besides, we propose a simple yet effective baseline, named ***TVNet***, to automatically segment Trichomonas from microscopic images. 
 
 
 
@@ -48,9 +49,9 @@ Figure 3: Visual comparison of different methods. Our method provides more accur
 
 ## 5. Models & Evaluation
 
-The models and source code will be released soon. 
+The models and source code are coming soon. 
 
-For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) Dice and IoU [codes](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
+For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) [Dice and IoU](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
 
 
 
@@ -58,11 +59,16 @@ For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetr
 
 
 ## 6. Citation
-Please cite our paper if you find the work useful:
->@inproceedings{li2022TVS,
-<br>title={Trichomonas Vaginalis Segmentation in Microscope Images},
-<br>author={Li, Lin and Liu, Jingyi and Wang, Shuo and Wang, Xunkun and Xiang, Tian-Zhu},
-<br>booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI},
-<br>year={2022}
-<br>}
+Please cite our paper if you find the work useful: 
+
+```
+@inproceedings{li2022TVS,
+  title={Trichomonas Vaginalis Segmentation in Microscope Images},
+  author={Li, Lin and Liu, Jingyi and Wang, Shuo and Wang, Xunkun and Xiang, Tian-Zhu},
+  booktitle={International Conference on Medical Image Computing and Computer Assisted Intervention, MICCAI},
+  year={2022}
+}
+```
+If you have any questions about our paper, feel free to contact me via e-mail (ll198196@163.com).
+
 
