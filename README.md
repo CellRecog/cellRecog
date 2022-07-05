@@ -1,6 +1,6 @@
 # Trichomonas Vaginalis Segmentation in Microscope Images (MICCAI2022)
 > Authors: Lin Li, Jingyi Liu, Shuo Wang, Xunkun Wang, and Tian-Zhu Xiang.   
-> <a href="https://arxiv.org/abs/test" rel="nofollow"><img src="https://camo.githubusercontent.com/4398ed745cccb9198b5590f2d4799518bae17c2dca258419b9413789a2fd01c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41727869762d50617065722d7265643f7374796c653d666c61742d737175617265" alt="ARXIV PAPER" data-canonical-src="https://img.shields.io/badge/Arxiv-Paper-red?style=flat-square" style="max-width: 100%;"></a>
+> <a href="https://arxiv.org/abs/2207.00973" rel="nofollow"><img src="https://camo.githubusercontent.com/4398ed745cccb9198b5590f2d4799518bae17c2dca258419b9413789a2fd01c6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41727869762d50617065722d7265643f7374796c653d666c61742d737175617265" alt="ARXIV PAPER" data-canonical-src="https://img.shields.io/badge/Arxiv-Paper-red?style=flat-square" style="max-width: 100%;"></a>
 
 
 ## 1. Introducton
@@ -47,9 +47,9 @@ Figure 3: Visual comparison of different methods. Our method provides more accur
 
 ## 5. Models & Evaluation
 
-The models and source code are coming soon. 
+- The models and source code are coming soon. 
 
-For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) [Dice and IoU](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
+- For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) [Dice and IoU](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
 
 
 
