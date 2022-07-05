@@ -41,15 +41,15 @@ Figure 3: Visual comparison of different methods. Our method provides more accur
 
 ### 4.3 Results Download
 
-* Results of our TVNet. [Baidu Pan](https://pan.baidu.com/s/1LY6cNnNEL9Gi4m8UAFi_gw) (1let) [Google Drive](https://drive.google.com/file/d/1bpZMFn5tIsmmZo1NsUl8Wgr0CWwXk8hh/view?usp=sharing)
+* Results of our TVNet: [Baidu Pan](https://pan.baidu.com/s/1LY6cNnNEL9Gi4m8UAFi_gw) (1let) | [Google Drive](https://drive.google.com/drive/folders/1sQcC75-4RywjHT8qbeB1WjVM99DGMKg_?usp=sharing)
 
-* Performance of competing methods. [Baidu Pan](https://pan.baidu.com/s/1jwlQfScfSoBxFaq5kZ00dg) (0qv5) [Google Drive](https://drive.google.com/file/d/1gvr-SAZEewKhGzlXB_k9OA-3KESxHST9/view?usp=sharing)
+* Performance of competing methods: [Baidu Pan](https://pan.baidu.com/s/1jwlQfScfSoBxFaq5kZ00dg) (0qv5) | [Google Drive](https://drive.google.com/drive/folders/1sQHRUZGiHC5D2XbYtYIccvU1gyzC8zqC?usp=sharing)
 
 ## 5. Models & Evaluation
 
 - The models and source code are coming soon. 
 
-- For evaluation, we adopt 1) [PySODMetrics](https://github.com/lartpang/PySODMetrics) library and 2) [Dice and IoU](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
+- For evaluation, we adopt [PySODMetrics](https://github.com/lartpang/PySODMetrics) and ② [Dice-IoU](https://github.com/weijun88/SANet). They can also be found in ```Evaluation``` folder.
 
 
 
