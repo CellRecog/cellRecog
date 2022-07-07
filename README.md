@@ -14,7 +14,7 @@
 ![image](https://github.com/CellRecog/cellRecog/blob/main/Images/dataset.jpg)
 Figure 1: Examples of our proposed TVMI3K. We provide different annotations, including object-level masks, object edges and challenging attributes. We use red boxes to mark Trichomonas and green boxes to mark leukocyte on images for better visualization. Leukocyte shows high similarity with Trichomonas.
 
-TVMI3K datasets: [Download](https://zenodo.org/record/6545146#.YrcfCexBz7U)
+TVMI3K datasets: [Download](https://zenodo.org/record/6792861)
 
 
 
